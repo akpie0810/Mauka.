@@ -6,7 +6,7 @@ import { ShopContext } from '../context/ShopContext';
 
 import { assets } from '../assets/frontend/assets'; 
 
-import  {RelatedProducts}  from '../components/RelatedProducts';
+import  RelatedProducts  from '../components/RelatedProducts';
 
 
 
