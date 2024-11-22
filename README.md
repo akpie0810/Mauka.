@@ -28,8 +28,8 @@ With a focus on sustainability, Mauka promotes a circular economy by encouraging
 ![Latest Collection](./images/latestcollection.png)
 ## Best Seller
 ![Best Seller](./images/bestseller.png)
-## About Us
-![About Us](./images/aboutus.jpg)
+## Contact Us
+![Contact Us](./images/aboutus.jpg)
 ## Collection Page
 ![Collection Page](./images/CollectionPage.jpg)
 ## SignUp
