@@ -20,7 +20,24 @@ With a focus on sustainability, Mauka promotes a circular economy by encouraging
 ## **Usage**  
 - **Browse Pre-Loved Items**: Explore items by category, such as clothes, furniture, jewelry, and more.  
 - **Sign Up**: Create an account to buy or sell gently used items effortlessly.  
-- **Enjoy the Experience**: Shop sustainably while finding unique and stylish products at great prices!  
+- **Enjoy the Experience**: Shop sustainably while finding unique and stylish products at great prices!
+
+## Header
+![Header](./images/header.jpg)
+## Latest Collection
+![Latest Collection](./images/latestcollection.jpg)
+## Best Seller
+![Best Seller](./images/bestseller.jpg)
+## About Us
+![About Us](./images/aboutus.jpg)
+## Collection Page
+![Collection Page](./images/Collection Page.jpg)
+## SignUp
+![Sign Up](./images/signup.jpg)
+## Login
+![Login](./images/Login.jpg)
+## About Us
+![Product Description](./images/product description.jpg)
 ## **Installation Instructions**  
 1. Clone the repository:  
    ```bash  
