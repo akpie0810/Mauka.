@@ -23,7 +23,7 @@ With a focus on sustainability, Mauka promotes a circular economy by encouraging
 - **Enjoy the Experience**: Shop sustainably while finding unique and stylish products at great prices!
 
 ## Header
-![Header](./images/header.jpg)
+![Header](./images/header.png)
 ## Latest Collection
 ![Latest Collection](./images/latestcollection.png)
 ## Best Seller
