@@ -3,7 +3,6 @@
 
 ## **About the Project**  
 *Mauka.* which means "chance" in Hindi, embodies the idea of giving a second chance to pre-loved items.  
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 We are an online thrift store designed to redefine shopping by offering a sustainable, affordable, and stylish alternative to traditional retail by providing a wide range of secondhand goods, from clothes and jewelry to furniture and artwork.  
 
